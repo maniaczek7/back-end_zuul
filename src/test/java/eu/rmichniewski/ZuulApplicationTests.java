@@ -1,4 +1,4 @@
-package com.example.zuul;
+package eu.rmichniewski;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
